@@ -1,0 +1,14 @@
+cef_binary\Resources должны находиться файлы ресурсов
+
+cef.pak
+cef_100_percent.pak
+cef_200_percent.pak
+cef_extensions.pak
+devtools_resources.pak
+icudtl.dat
+locales\en-US.pak
+locales\ru.pak
+locales\**
+
+Файлы находятся в поставляемом пакете CEF, например:
+cef_binary_87.1.12+g03f9336+chromium-87.0.4280.88_windows64\Resources

@@ -1,0 +1,13 @@
+!/[Dd]ebug/
+/[Dd]ebug/*.*
+/[Dd]ebug/**
+!/[Dd]ebug/@filelist.txt
+
+!/[Rr]elease/
+/[Rr]elease/*.*
+/[Rr]elease/**
+!/[Rr]elease/@filelist.txt
+
+/[Rr]esources/*.*
+/[Rr]esources/**
+!/[Rr]esources/@filelist.txt

@@ -1,0 +1,15 @@
+cef_binary/Release должны находится следующие файлы в релизной сборке:
+
+cef_sandbox.lib
+chrome_elf.dll
+d3dcompiler_47.dll
+libcef.dll
+libEGL.dll
+libGLESv2.dll
+snapshot_blob.bin
+v8_context_snapshot.bin
+swiftshader\libEGL.dll
+swiftshader\libGLESv2.dll
+
+Файлы находятся в поставляемом пакете CEF, например:
+cef_binary_87.1.12+g03f9336+chromium-87.0.4280.88_windows64\Release
